@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TylanM
 - 👀 I’m interested in Full Stack development.
-- 🌱 I’m currently learning front end and back end through The Odin Project.
+- 🌱 I’m currently focusing on learning more about Full Stack Development.
 - 📫 You can reach me at tylanbm.com
 
 <!---
